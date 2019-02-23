@@ -17,7 +17,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
+}
 
 /* Centered text */
 .top-center {
@@ -28,12 +28,12 @@ body {
 }
 
 .heading1 {
-font-family: 'Charm', cursive;
-font-size: larger;
+    font-family: 'Charm', cursive;
+    font-size: larger;
 }
 
 .heading2 {
     font-family: 'Charm', cursive;
     font-size: large;
-    }
+}
     
