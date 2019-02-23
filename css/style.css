@@ -1,6 +1,6 @@
 body {
     min-height: 2000px;
-    padding-top: 60px;
+    padding-top: 65px;
 }
 
 /* Container holding the image and the text */
@@ -29,4 +29,5 @@ body {
 
   .title {
     font-family: 'Charm', cursive;
+    font-size: large;
   }
