@@ -27,7 +27,13 @@ body {
     transform: translate(-50%, 0);
 }
 
-  .title {
+.heading {
+font-family: 'Charm', cursive;
+font-size: larger;
+}
+
+.heading2 {
     font-family: 'Charm', cursive;
     font-size: large;
-  }
+    }
+    
