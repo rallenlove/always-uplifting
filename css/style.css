@@ -1,5 +1,4 @@
 body {
-    min-height: 2000px;
     padding-top: 55px;
 }
 
@@ -7,7 +6,6 @@ body {
 .container {
     position: relative;
     text-align: center;
-    color: white;
     width:100%;
 }
 
@@ -34,4 +32,10 @@ body {
 
 .noborder {
     border-radius: 0;
+}
+
+.divider{
+    width:10px;
+    height:auto;
+    display:inline-block;
 }
