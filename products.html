@@ -12,13 +12,15 @@
   <link href="https://fonts.googleapis.com/css?family=Charm" rel="stylesheet">
 
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
   <script type="text/javascript">
     $(document).ready(function(){
     $('#navigation').load('navi.html');
     });
   </script>
+
   <script>
-    var shiftWindow = function() { scrollBy(0, -50) };
+    var shiftWindow = function() { scrollBy(0, -60) };
     window.addEventListener("hashchange", shiftWindow);
     function load() { if (window.location.hash) shiftWindow(); }
   </script>
