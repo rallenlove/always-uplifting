@@ -12,8 +12,9 @@ body {
 .container-left {
     position: relative;
     /* text-align: left; */
-    width:100%;
-    padding: 5px 15%;
+    width:75%;
+    /* padding: 5px 15%; */
+    margin:auto
 }
 
 .centered {
