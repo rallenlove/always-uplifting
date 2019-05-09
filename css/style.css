@@ -2,7 +2,10 @@ body {
     padding-top: 55px;
 }
 
-/* Container holding the image and the text */
+p {
+    color: #343a40;
+}
+
 .container {
     position: relative;
     text-align: center;
