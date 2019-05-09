@@ -21,7 +21,7 @@ body {
     text-align: center;
 }
 
-.centered-on-image
+.centered-on-image {
     position: absolute;
     top: 50%;
     left: 50%;
