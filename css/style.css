@@ -49,6 +49,10 @@ body {
     color: #e83e8c;
 }
 
+a.dark-pink:hover {
+    color: #e83e8c;
+}
+
 .noborder {
     border-radius: 0;
 }
