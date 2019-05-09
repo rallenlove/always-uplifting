@@ -2,7 +2,7 @@ body {
     padding-top: 55px;
 }
 
-p {
+p, h1, h2, h3 {
     color: #343a40;
 }
 
@@ -54,6 +54,14 @@ p {
 
 a.dark-pink:hover {
     color: rgb(190, 45, 115);
+}
+
+#index-tel {
+    color: #0504aa;
+}
+
+#index-tel:hover {
+    color: #040273;
 }
 
 .royal {
