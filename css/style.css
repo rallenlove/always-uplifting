@@ -45,6 +45,10 @@ body {
     color: rgb(0, 160, 100);
 }
 
+.dark-pink {
+    color: #e83e8c;
+}
+
 .noborder {
     border-radius: 0;
 }
@@ -67,3 +71,11 @@ body {
 /* .body {
     background-color: #333333;
   } */
+
+.navbar-brand {
+    font-weight: bold
+}
+
+.nav-link {
+    font-weight: bold
+}
