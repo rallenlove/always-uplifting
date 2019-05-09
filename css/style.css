@@ -46,11 +46,11 @@ body {
 }
 
 .dark-pink {
-    color: #e83e8c;
+    color: rgb(232,62,140);
 }
 
 a.dark-pink:hover {
-    color: #e83e8c;
+    color: rgb(190, 45, 115);
 }
 
 .noborder {
