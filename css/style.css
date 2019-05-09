@@ -53,6 +53,10 @@ a.dark-pink:hover {
     color: rgb(190, 45, 115);
 }
 
+.royal {
+    color: #0504aa;
+}
+
 .noborder {
     border-radius: 0;
 }
