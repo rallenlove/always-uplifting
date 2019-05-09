@@ -41,6 +41,10 @@ body {
     text-align: center;
 }
 
+.green {
+    color: rgb(0, 160, 100);
+}
+
 .noborder {
     border-radius: 0;
 }
